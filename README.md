@@ -72,7 +72,7 @@ I'm focusing on **hands-on projects, troubleshooting, automation, and real-world
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** Add your LinkedIn URL here
+💼 **LinkedIn:** www.linkedin.com/in/deepak-gupta-20727022a
 
 🐙 **GitHub:** [github.com/deepak7740](https://github.com/deepak7740)
 
