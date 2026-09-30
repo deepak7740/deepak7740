@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Gupta
 
-<!--
-**deepak7740/deepak7740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .NET Developer → DevOps & Cloud Engineer 🚀
 
-Here are some ideas to get you started:
+I'm a **.NET developer with 4+ years of experience**, currently expanding my skills into **DevOps, Cloud, CI/CD, Containers, and Kubernetes**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to understand the complete journey of an application — from **writing code to deploying and running it in production**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Development
+
+* C#
+* .NET / ASP.NET Core
+* Web API
+* SQL Server
+
+### ⚙️ DevOps
+
+* Git & GitHub
+* Linux
+* Docker
+* Jenkins
+* CI/CD
+* Kubernetes
+* Terraform
+
+### ☁️ Cloud
+
+* AWS
+* Cloud Infrastructure
+* Deployment & Automation
+
+---
+
+## 🚀 What I'm Currently Learning
+
+```text
+.NET
+  ↓
+Linux + Git
+  ↓
+Docker
+  ↓
+CI/CD
+  ↓
+AWS
+  ↓
+Kubernetes
+  ↓
+Terraform
+  ↓
+Monitoring & Observability
+```
+
+I'm focusing on **hands-on projects, troubleshooting, automation, and real-world deployment scenarios**.
+
+---
+
+## 📚 Currently
+
+🚀 Learning DevOps & Cloud
+🐳 Practicing Docker & Containers
+⚙️ Building CI/CD pipelines
+☁️ Exploring AWS
+☸️ Learning Kubernetes
+🏗️ Practicing Terraform
+
+---
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:** Add your LinkedIn URL here
+
+🐙 **GitHub:** [github.com/deepak7740](https://github.com/deepak7740)
+
+---
+
+⭐ Building. Automating. Deploying. Learning in public.
